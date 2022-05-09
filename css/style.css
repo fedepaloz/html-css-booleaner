@@ -1,1 +1,70 @@
-#logo{background-color: aqua; background-image: url(../img/pattern.png);} 
+header {
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+}
+
+#logoz {
+    width: 200px;
+}
+
+
+
+
+
+
+#link-bool {
+    color: aqua;
+    text-decoration: none;
+}
+
+.gialloevi {
+    background-color: yellow;
+}
+
+
+/* tabella */
+#trblue {
+    background-color: rgb(28, 153, 211);
+}
+
+.whitelollo {
+    color: white;
+    padding-right: 80px;
+}
+
+.tr1 {
+    background-color: aquamarine;
+}
+
+#tr2 {
+    background-color: aqua;
+}
+
+.td {
+    padding-right: 80px;
+}
+
+
+
+
+#potrebbero {
+    color: grey;
+}
+
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 250px;
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 250px;
+}
+
+h3 {
+    color: white;
+}
